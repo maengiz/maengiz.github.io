@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: <img src = https://github.com/Memory-Seekers/Memory-Seekers.github.io/assets/114274065/78279636-f1d9-48ff-bc9a-1aff09710737>
+  overlay_image: /assets/images/banner_img.jpg
   actions:
     - label: "<i class='fas fa-download'></i> Install now"
       url: "/docs/quick-start-guide/"
