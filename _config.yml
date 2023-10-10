@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dirt" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : https://github.com/Memory-Seekers/Memory-Seekers.github.io/assets/114274065/1e0a7683-87b4-46df-86be-760c4cdb2c3a
+title                    : "https://github.com/Memory-Seekers/Memory-Seekers.github.io/assets/114274065/1e0a7683-87b4-46df-86be-760c4cdb2c3a"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
