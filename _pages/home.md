@@ -5,12 +5,13 @@ hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/banner_img.jpg
-  actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
+  # actions:
+  #   - label: "<i class='fas fa-download'></i> Install now"
+  #     url: "/docs/quick-start-guide/"
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
+  맹기즈는 캐릭터 문구 크리에이터들을 대신하여 상품의 제작, 홍보, 유통의 전 과정을 대행해주는 사업이다.
+  즉, 플랫폼을 제공하고, 디자인된 제품을 제작 및 유통하는 활동을 한다.<br />
+ 
 feature_row:
   - image_path: /assets/images/tomato.jpg
     alt: ""
