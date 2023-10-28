@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "맹기즈"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Maegiz"
 description              : "An amazing website."
 url                      : "https://maengiz.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
