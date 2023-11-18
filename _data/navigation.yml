@@ -3,7 +3,7 @@ main:
   - title: "홈"
     url: /
   - title: "크리에이터"
-    url: /collection-archive/
+    url: /portfolio/
   - title: "상품"
     url: /goods/
   #- title: "Quick-Start Guide"
@@ -18,8 +18,8 @@ main:
   #   url: /sitemap/
 
   # documentation links
-docs:
-  - title: "Creators"
+portfolio:
+  - title: Customization
     children:
       - title: "김정현"
         url: /docs/jeonghyeon/
