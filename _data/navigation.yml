@@ -16,14 +16,3 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-
-  # documentation links
-portfolio:
-  - title: Customization
-    children:
-      - title: "김정현"
-        url: /docs/jeonghyeon/
-      - title: "이세진"
-        url: /docs/sejin/
-      - title: "최성은"
-        url: /docs/seongeun/
