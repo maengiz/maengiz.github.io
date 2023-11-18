@@ -1,6 +1,6 @@
 ---
-title: "Fizz Bang Identity"
-excerpt: "Fizz Bang design system including logo mark, website design, and branding applications."
+title: "이세진"
+excerpt: "밍글맹글의 크리에이터 이세진. 초록이 등의 캐릭터를 디자인하였다. 현재까지 제작한 제품으로는 포스트잇, 메모지, 스티커 등이 있다."
 header:
   image: /assets/images/unsplash-gallery-image-2.jpg
   teaser: assets/images/unsplash-gallery-image-2-th.jpg
