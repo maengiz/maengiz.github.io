@@ -5,7 +5,7 @@ main:
   - title: "크리에이터"
     url: /creator/
   - title: "상품"
-    url: /
+    url: /goods/
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
@@ -16,3 +16,14 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+  # documentation links
+docs:
+  - title: Creators
+    children:
+      - title: "김정현"
+        url: /docs/jeonghyeon/
+      - title: "이세진"
+        url: /docs/sejin/
+      - title: "최성은"
+        url: /docs/seongeun/
