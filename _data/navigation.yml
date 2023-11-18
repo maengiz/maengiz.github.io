@@ -3,7 +3,7 @@ main:
   - title: "홈"
     url: /
   - title: "크리에이터"
-    url: /_pages/collection-archive.html
+    url: /collection-archive/
   - title: "상품"
     url: /goods/
   #- title: "Quick-Start Guide"
@@ -19,7 +19,7 @@ main:
 
   # documentation links
 docs:
-  - title: Creators
+  - title: "Creators"
     children:
       - title: "김정현"
         url: /docs/jeonghyeon/
