@@ -2,8 +2,8 @@
 title: "김정현"
 excerpt: "밍글맹글의 크리에이터 김정현. 방토씨, 곰구마 등의 캐릭터를 디자인하였다. 현재까지 제작한 제품으로는 엽서, 포스트잇, 메모지, 스티커, 마스킹테이프 등이 있다."
 header:
-  image: /assets/images/unsplash-gallery-image-1.jpg
-  teaser: assets/images/tomato.jpg
+  image: /assets/images/01-jeonghyeon_header_image.png
+  teaser: /assets/images/01-jeonghyeon_header_image.png
 # sidebar:
 #   - title: "Role"
 #     image: http://placehold.it/350x250
