@@ -2,7 +2,7 @@
 title: "최성은"
 excerpt: "밍글맹글의 크리에이터 최성은. 솜솜이 등의 캐릭터를 디자인하였다. 현재까지 제작한 제품으로는 달력, 스티커 등이 있다."
 header:
-  image: /assets/images/calendar.jpg
+  # image: /assets/images/calendar.jpg
   teaser: /assets/images/calendar.jpg
 # sidebar:
 #   - title: "Role"
