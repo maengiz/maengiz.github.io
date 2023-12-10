@@ -2,7 +2,7 @@
 title: 상품
 layout: single
 permalink: /goods/
-#classes: wide
+classes: wide
 author_profile: false
 ---
 
