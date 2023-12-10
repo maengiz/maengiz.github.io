@@ -2,8 +2,8 @@
 title: 상품
 layout: single
 permalink: /goods/
-entries_layout: grid
-classes: wide
+#entries_layout: grid
+#classes: wide
 author_profile: false
 ---
 
@@ -22,7 +22,7 @@ author_profile: false
 
 |곰구마|||
 |---|---|-|
-|스티커|![](/assets/images/곰구마/스티커/1.jpg)|![](/assets/images/곰구마/스티커/2.jpg)|
+|스티커|![](/assets/images/곰구마/스티커/1.png)|![](/assets/images/곰구마/스티커/2.jpg)|
 |포스트잇|![](/assets/images/곰구마/포스트잇/1.jpg)||
 
 |방토씨||
@@ -41,5 +41,5 @@ author_profile: false
 
 |텀블벅||
 |---|---|
-|뜯어쓰는 반반 엽서|![](/assets/images/엽서1.jpg)|
-|헬시플레저를 위한 2024 솜솜이 플래너 캘린더|![](/assets/images/방토씨/캘린더1.jpg)|
+|뜯어쓰는 반반 엽서|![](/assets/images/텀블벅/엽서1.jpg)|
+|헬시플레저를 위한 2024 솜솜이 플래너 캘린더|![](/assets/images/텀블벅/캘린더1.jpg)|
