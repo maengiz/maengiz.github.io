@@ -15,6 +15,7 @@ author_profile: false
 ||![포스트잇](/assets/images/초록이/포스트잇/5.jpg "초록이 포스트잇")|![포스트잇](/assets/images/초록이/포스트잇/6.jpg "초록이 포스트잇")|![포스트잇](/assets/images/초록이/포스트잇/7.jpg "초록이 포스트잇")|![포스트잇](/assets/images/초록이/포스트잇/8.jpg "초록이 포스트잇")|
 |　　　|![](/assets/images/초록이/포스트잇/9.jpg)|![](/assets/images/초록이/포스트잇/10.jpg)|||
 
+<br/>
 
 |**Yowl Cat**|||
 |:-|:-|:-|
@@ -24,7 +25,7 @@ author_profile: false
 
 |**곰구마**|||
 |:-|:-|:-|
-|스티커|![](/assets/images/곰구마/스티커/1.png){: width="80%" height="80%"}|![](/assets/images/곰구마/스티커/2.jpg)|
+|스티커|![](/assets/images/곰구마/스티커/1.png){: width="40%" height="40%"}|![](/assets/images/곰구마/스티커/2.jpg){: width="100%" height="100%"}|
 |포스트잇　　　|![](/assets/images/곰구마/포스트잇/1.jpg){: width="50%" height="50%"}||
 
 |**방토씨**||
