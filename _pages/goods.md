@@ -13,7 +13,7 @@ author_profile: false
 ||![도무송](/assets/images/초록이/도무송/5.jpg "초록이 도무송")|![도무송](/assets/images/초록이/도무송/6.jpg "초록이 도무송")|![](/assets/images/초록이/도무송/7.jpg)||
 |포스트잇|![포스트잇](/assets/images/초록이/포스트잇/1.jpg "초록이 포스트잇")|![포스트잇](/assets/images/초록이/포스트잇/2.jpg "초록이 포스트잇")|![포스트잇](/assets/images/초록이/포스트잇/3.jpg "초록이 포스트잇")|![포스트잇](/assets/images/초록이/포스트잇/4.jpg "초록이 포스트잇")|
 ||![포스트잇](/assets/images/초록이/포스트잇/5.jpg "초록이 포스트잇")|![포스트잇](/assets/images/초록이/포스트잇/6.jpg "초록이 포스트잇")|![포스트잇](/assets/images/초록이/포스트잇/7.jpg "초록이 포스트잇")|![포스트잇](/assets/images/초록이/포스트잇/8.jpg "초록이 포스트잇")|
-||![](/assets/images/초록이/포스트잇/9.jpg)|![](/assets/images/초록이/포스트잇/10.jpg)|||
+|&nbsp&nbsp&nbsp&nbsp&nbsp|![](/assets/images/초록이/포스트잇/9.jpg)|![](/assets/images/초록이/포스트잇/10.jpg)|||
 
 
 |Yowl Cat|||
