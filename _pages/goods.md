@@ -25,8 +25,8 @@ author_profile: false
 
 |**곰구마**|||
 |:-|:-|:-|
-|스티커|![](/assets/images/곰구마/스티커/1.png){: width="45%" height="45%"}|![](/assets/images/곰구마/스티커/2.jpg){: width="100%" height="100%"}|
-|포스트잇　　　|![](/assets/images/곰구마/포스트잇/1.jpg){: width="50%" height="50%"}|　　　　　　　　　　　　　　　　　　　　　　　　　　|
+|스티커|![](/assets/images/곰구마/스티커/1.png){: width="50%" height="50%"}|![](/assets/images/곰구마/스티커/2.jpg){: width="100%" height="100%"}|
+|포스트잇　　　|![](/assets/images/곰구마/포스트잇/1.jpg){: width="50%" height="50%"}|　　　　　　|
 
 |**방토씨**||
 |:-|:-|
