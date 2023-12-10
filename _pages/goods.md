@@ -41,7 +41,7 @@ author_profile: false
 
 |**고양이**||||
 |:-|:-|:-|:-|
-|스티커　　|![](/assets/images/고양이/스티커/1.jpg){: width="60%" height="60%"}|![](/assets/images/고양이/스티커/2.jpg){: width="60%" height="60%"}|![](/assets/images/고양이/스티커/3.jpg){: width="120%" height="120%"}|
+|스티커　　|![](/assets/images/고양이/스티커/1.jpg){: width="60%" height="60%"}|![](/assets/images/고양이/스티커/2.jpg){: width="60%" height="60%"}|![](/assets/images/고양이/스티커/3.jpg){: width="150%" height="150%"}|
 
 <br/>
 
