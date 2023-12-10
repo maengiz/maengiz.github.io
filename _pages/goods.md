@@ -14,10 +14,10 @@ author_profile: false
 |포스트잇|![포스트잇](/assets/images/초록이/포스트잇/1.jpg "초록이 포스트잇")|![포스트잇](/assets/images/초록이/포스트잇/2.jpg "초록이 포스트잇")|![포스트잇](/assets/images/초록이/포스트잇/3.jpg "초록이 포스트잇")|![포스트잇](/assets/images/초록이/포스트잇/4.jpg "초록이 포스트잇")|![포스트잇](/assets/images/초록이/포스트잇/5.jpg "초록이 포스트잇")|![포스트잇](/assets/images/초록이/포스트잇/6.jpg "초록이 포스트잇")|![포스트잇](/assets/images/초록이/포스트잇/7.jpg "초록이 포스트잇")|![포스트잇](/assets/images/초록이/포스트잇/8.jpg "초록이 포스트잇")|
 
 
-|Yowl cat|||
+|Yowl Cat|||
 |---|---|-|
-|스티커|![](/assets/images/yowl_cat/스티커1.jpg "")||
-|포스트잇|![](/assets/images/yowl_cat/포스트잇1.jpg "")|![](/assets/images/yowl_cat/포스트잇2.jpg "")|
+|스티커|![](/assets/images/yowl_cat/스티커1.jpg)||
+|포스트잇|![](/assets/images/yowl_cat/포스트잇1.jpg)|![](/assets/images/yowl_cat/포스트잇2.jpg)|
 
 곰구마
 
