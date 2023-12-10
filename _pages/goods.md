@@ -22,25 +22,34 @@ author_profile: false
 |스티커|![](/assets/images/yowl_cat/스티커/1.jpg)||
 |포스트잇　　　|![](/assets/images/yowl_cat/포스트잇/1.jpg)|![](/assets/images/yowl_cat/포스트잇/2.jpg)|
 
+<br/>
 
 |**곰구마**|||
 |:-|:-|:-|
-|스티커|![](/assets/images/곰구마/스티커/1.png){: width="50%" height="50%"}|![](/assets/images/곰구마/스티커/2.jpg){: width="100%" height="100%"}|
-|포스트잇　　　|![](/assets/images/곰구마/포스트잇/1.jpg){: width="50%" height="50%"}|　　　　　　|
+|스티커|![](/assets/images/곰구마/스티커/1.png){: width="50%" height="50%"}|![](/assets/images/곰구마/스티커/2.jpg)|
+|포스트잇　　　|![](/assets/images/곰구마/포스트잇/1.jpg){: width="50%" height="50%"}||
+
+<br/>
 
 |**방토씨**||
 |:-|:-|
-|마스킹테이프|![](/assets/images/방토씨/마스킹테이프/1.jpg)|
-|스티커|![](/assets/images/방토씨/스티커/1.jpg)|
-|포스트잇　　　　　|![](/assets/images/방토씨/포스트잇/1.jpg)||
+|마스킹테이프|![](/assets/images/방토씨/마스킹테이프/1.jpg){: width="50%" height="50%"}|
+|스티커|![](/assets/images/방토씨/스티커/1.jpg){: width="50%" height="50%"}|
+|포스트잇　　　　　|![](/assets/images/방토씨/포스트잇/1.jpg){: width="50%" height="50%"}|
+
+<br/>
 
 |**고양이**||||
 |:-|:-|:-|:-|
 |스티커　　|![](/assets/images/고양이/스티커/1.jpg)|![](/assets/images/고양이/스티커/2.jpg)|![](/assets/images/고양이/스티커/3.jpg)|
 
+<br/>
+
 |**어푸**|
 |:-|
 |스티커　　|![](/assets/images/어푸/스티커/1.jpg)|
+
+<br/>
 
 |**텀블벅**||
 |:-|:-|
