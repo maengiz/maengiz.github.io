@@ -41,7 +41,7 @@ author_profile: false
 
 |**고양이**||||
 |:-|:-|:-|:-|
-|스티커　　|![](/assets/images/고양이/스티커/1.jpg){: width="50%" height="50%"}|![](/assets/images/고양이/스티커/2.jpg){: width="50%" height="50%"}|![](/assets/images/고양이/스티커/3.jpg){: width="50%" height="50%"}|
+|스티커　　|![](/assets/images/고양이/스티커/1.jpg){: width="60%" height="60%"}|![](/assets/images/고양이/스티커/2.jpg){: width="60%" height="60%"}|![](/assets/images/고양이/스티커/3.jpg){: width="120%" height="120%"}|
 
 <br/>
 
@@ -54,4 +54,4 @@ author_profile: false
 |**텀블벅**||
 |:-|:-|
 |뜯어쓰는 반반 엽서|![](/assets/images/텀블벅/엽서1.png)|
-|헬시플레저를 위한 2024 솜솜이 플래너 캘린더|![](/assets/images/텀블벅/캘린더1.jpg){: width="50%" height="50%"}|
+|헬시플레저를 위한 2024 솜솜이 플래너 캘린더|![](/assets/images/텀블벅/캘린더1.jpg){: width="60%" height="60%"}|
