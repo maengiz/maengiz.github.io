@@ -24,14 +24,14 @@ author_profile: false
 
 |**곰구마**|||
 |:-|:-|:-|
-|스티커|![](/assets/images/곰구마/스티커/1.png)|![](/assets/images/곰구마/스티커/2.jpg)|
-|포스트잇　　　|![](/assets/images/곰구마/포스트잇/1.jpg)||
+|스티커|![](/assets/images/곰구마/스티커/1.png){: width="80%" height="80%"}|![](/assets/images/곰구마/스티커/2.jpg)|
+|포스트잇　　　|![](/assets/images/곰구마/포스트잇/1.jpg){: width="50%" height="50%"}||
 
 |**방토씨**||
 |:-|:-|
 |마스킹테이프|![](/assets/images/방토씨/마스킹테이프/1.jpg)|
 |스티커|![](/assets/images/방토씨/스티커/1.jpg)|
-|포스트잇　　　|![](/assets/images/방토씨/포스트잇/1.jpg)||
+|포스트잇　　　　　|![](/assets/images/방토씨/포스트잇/1.jpg)||
 
 |**고양이**||||
 |:-|:-|:-|:-|
