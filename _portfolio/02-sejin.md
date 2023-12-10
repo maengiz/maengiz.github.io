@@ -1,6 +1,7 @@
 ---
 title: "이세진"
 excerpt: "밍글맹글의 크리에이터 이세진. 초록이 등의 캐릭터를 디자인하였다. 현재까지 제작한 제품으로는 포스트잇, 메모지, 스티커 등이 있다."
+permalink: /02-sejin/
 header:
   # image: /assets/images/chroc.jpg
   teaser: /assets/images/chroc.jpg
