@@ -12,19 +12,19 @@ header:
 #   - title: "Responsibilities"
 #     text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - url: /assets/images/초록이-도무송.jpg
+    image_path: /assets/images/초록이-도무송.jpg
     alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
+  - url: /assets/images/초록이-마스킹테이프.jpg
+    image_path: assets/images/초록이-마스킹테이프.jpg
     alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
+  - url: /assets/images/초록이-포스트잇.jpg
+    image_path: /assets/images/초록이-포스트잇.jpg
     alt: "placeholder image 3"
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+밍글맹글의 크리에이터 이세진. 초록이 등의 캐릭터를 디자인하였다. 현재까지 제작한 제품으로는 포스트잇, 메모지, 스티커 등이 있다.
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include gallery caption="이세진 작가의 작품 사진이다." %}
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+왼쪽 사진은 "초록이 - 도무송 스티커"이다. 가운데 사진은 "초록이 - 마스킹 테이프"이다. 오른쪽 사진은 "초록이 - 포스트잇"이다.
